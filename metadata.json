@@ -1,0 +1,5 @@
+{
+  "name": "CypherPulse: PGP Explorer",
+  "description": "A high-performance cryptographic key analyzer and assistant, specifically designed to explore and understand PGP blocks, including historical artifacts like Satoshi Nakamoto's public key.",
+  "requestFramePermissions": []
+}
